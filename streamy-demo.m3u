@@ -13,9 +13,6 @@ https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 tvg-name="Tears of Steel" tvg-logo="https://mango.blender.org/wp-content/themes/mango/images/project-teaser.jpg" group-title="Movies",Tears of Steel
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-name="Sintel" group-title="Movies",Sintel
-https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Demo Series E01" group-title="Series",Demo Series - S01E01
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
 
