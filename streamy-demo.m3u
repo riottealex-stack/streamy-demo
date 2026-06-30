@@ -7,10 +7,10 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_
 #EXTINF:-1 tvg-name="Apple BipBop 4x3 Demo" group-title="Live TV",Live - Apple BipBop 4x3 Demo
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
 
-#EXTINF:-1 tvg-name="Big Buck Bunny" group-title="Movies",Big Buck Bunny
+#EXTINF:-1 tvg-name="Big Buck Bunny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/512px-Big_buck_bunny_poster_big.jpg" group-title="Movies",Big Buck Bunny
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-name="Tears of Steel" group-title="Movies",Tears of Steel
+#EXTINF:-1 tvg-name="Tears of Steel" tvg-logo="https://mango.blender.org/wp-content/themes/mango/images/project-teaser.jpg" group-title="Movies",Tears of Steel
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
 #EXTINF:-1 tvg-name="Sintel" group-title="Movies",Sintel
