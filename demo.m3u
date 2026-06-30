@@ -1,0 +1,18 @@
+#EXTM3U
+#PLAYLIST:Streamy - Demo Playlist (legal test content)
+#EXTINF:-1 tvg-name="Akamai Live Test 1" group-title="Live TV",Live - Akamai Test 1
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-name="NASA Public TV" group-title="Live TV",Live - NASA Public TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-name="Akamai Live Test 2" group-title="Live TV",Live - Akamai Test 2
+https://moctobpltc-i.akamaihd.net/hls/live/571329/eight/playlist.m3u8
+#EXTINF:-1 tvg-name="Big Buck Bunny" group-title="Movies",Big Buck Bunny (Blender, CC)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-name="Tears of Steel" group-title="Movies",Tears of Steel (Blender, CC)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-name="Sintel" group-title="Movies",Sintel (Blender, CC)
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="Demo Series E01" group-title="Series",Demo Series - S01E01 (Apple BipBop)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
+#EXTINF:-1 tvg-name="Demo Series E02" group-title="Series",Demo Series - S01E02 (Apple BipBop HEVC)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
