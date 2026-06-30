@@ -1,2 +1,2 @@
 # streamy-demo
-teste m3u8
+test m3u8
