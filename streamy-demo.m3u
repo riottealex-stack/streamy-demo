@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST:Streamy - Demo Playlist (Legal Test Content)
 
-#EXTINF:-1 tvg-name="NASA Public TV" group-title="Live TV",Live - NASA Public TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-name="Apple BipBop 16x9 Demo" group-title="Live TV",Live - Apple BipBop 16x9 Demo
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
 
-#EXTINF:-1 tvg-name="Apple BipBop Live Demo" group-title="Live TV",Live - Apple BipBop Demo
+#EXTINF:-1 tvg-name="Apple BipBop 4x3 Demo" group-title="Live TV",Live - Apple BipBop 4x3 Demo
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
 
 #EXTINF:-1 tvg-name="Big Buck Bunny" group-title="Movies",Big Buck Bunny
